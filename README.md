@@ -65,4 +65,4 @@ var allIssuesAreClosed = issues.every(function(issue) {
 });
 tests["All issues are closed"] = allIssuesAreClosed;  
 ```
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://thong-dang-0719.postman.co/workspace/aaf923a2-62b2-4db3-8a92-0a6c4e601d6a/request/41738630-59c078ac-8e61-49a0-ad82-073a8312bee1?action=share&source=copy-link&creator=41738630&ctx=documentation)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://null.postman.co/collection/41738630-9554044a-9c66-48f2-b26d-686fb1ae8439?source=rip_markdown&active-environment=41738630-3c5c5566-d2ed-4a36-9505-20d2716c500d)
